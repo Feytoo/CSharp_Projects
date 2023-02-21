@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\bin\Debug\net7.0\Average_Calculate.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\bin\Debug\net7.0\Average_Calculate.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\bin\Debug\net7.0\Average_Calculate.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\bin\Debug\net7.0\Average_Calculate.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\bin\Debug\net7.0\Average_Calculate.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\Average_Calculate.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\Average_Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\Average_Calculate.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\Average_Calculate.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\Average_Calculate.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\Average_Calculate.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\refint\Average_Calculate.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\Average_Calculate.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\Average_Calculate.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Average_Calculate\obj\Debug\net7.0\ref\Average_Calculate.dll
