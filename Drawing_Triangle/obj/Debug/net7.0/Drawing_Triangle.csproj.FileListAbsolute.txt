@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\bin\Debug\net7.0\Drawing_Triangle.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\bin\Debug\net7.0\Drawing_Triangle.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\bin\Debug\net7.0\Drawing_Triangle.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\bin\Debug\net7.0\Drawing_Triangle.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\bin\Debug\net7.0\Drawing_Triangle.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\Drawing_Triangle.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\Drawing_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\Drawing_Triangle.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\Drawing_Triangle.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\Drawing_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\Drawing_Triangle.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\refint\Drawing_Triangle.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\Drawing_Triangle.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\Drawing_Triangle.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Triangle\obj\Debug\net7.0\ref\Drawing_Triangle.dll
