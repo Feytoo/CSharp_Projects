@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\bin\Debug\net7.0\Reverse_Word.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\bin\Debug\net7.0\Reverse_Word.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\bin\Debug\net7.0\Reverse_Word.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\bin\Debug\net7.0\Reverse_Word.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\bin\Debug\net7.0\Reverse_Word.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\Reverse_Word.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\Reverse_Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\Reverse_Word.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\Reverse_Word.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\Reverse_Word.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\Reverse_Word.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\refint\Reverse_Word.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\Reverse_Word.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\Reverse_Word.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Reverse_Word\obj\Debug\net7.0\ref\Reverse_Word.dll
