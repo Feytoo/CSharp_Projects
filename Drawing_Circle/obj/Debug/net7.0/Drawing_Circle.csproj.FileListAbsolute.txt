@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\bin\Debug\net7.0\Drawing_Circle.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\bin\Debug\net7.0\Drawing_Circle.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\bin\Debug\net7.0\Drawing_Circle.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\bin\Debug\net7.0\Drawing_Circle.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\bin\Debug\net7.0\Drawing_Circle.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\Drawing_Circle.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\Drawing_Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\Drawing_Circle.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\Drawing_Circle.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\Drawing_Circle.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\Drawing_Circle.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\refint\Drawing_Circle.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\Drawing_Circle.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\Drawing_Circle.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Drawing_Circle\obj\Debug\net7.0\ref\Drawing_Circle.dll
