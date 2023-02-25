@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\bin\Debug\net7.0\Sums.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\bin\Debug\net7.0\Sums.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\bin\Debug\net7.0\Sums.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\bin\Debug\net7.0\Sums.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\bin\Debug\net7.0\Sums.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\Sums.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\Sums.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\Sums.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\Sums.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\Sums.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\refint\Sums.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\Sums.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\Sums.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Sums\obj\Debug\net7.0\ref\Sums.dll
