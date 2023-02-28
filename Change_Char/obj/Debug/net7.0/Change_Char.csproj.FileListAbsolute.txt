@@ -1,0 +1,15 @@
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\bin\Debug\net7.0\Change_Char.exe
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\bin\Debug\net7.0\Change_Char.deps.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\bin\Debug\net7.0\Change_Char.runtimeconfig.json
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\bin\Debug\net7.0\Change_Char.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\bin\Debug\net7.0\Change_Char.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\Change_Char.csproj.AssemblyReference.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\Change_Char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\Change_Char.AssemblyInfoInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\Change_Char.AssemblyInfo.cs
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\Change_Char.csproj.CoreCompileInputs.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\Change_Char.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\refint\Change_Char.dll
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\Change_Char.pdb
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\Change_Char.genruntimeconfig.cache
+C:\Users\sabom\OneDrive\Masaüstü\Fatih\CSharp_Projects\Change_Char\obj\Debug\net7.0\ref\Change_Char.dll
