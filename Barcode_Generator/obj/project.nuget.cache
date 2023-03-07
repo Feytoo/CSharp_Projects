@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QegrT+OiiC5BONaJvw2LtFtmFGLYpfTDV2sljOjjV84MmkKPxip1bUs6sHVKNLRfjVqQZ+B6VlTw+CWV6g5BQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabom\\OneDrive\\Masaüstü\\Fatih\\CSharp_Projects\\Barcode_Generator\\Barcode_Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabom\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\sabom\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\sabom\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\sabom\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\sabom\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
